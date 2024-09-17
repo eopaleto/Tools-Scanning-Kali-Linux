@@ -31,9 +31,11 @@
   - Setelah Terinstall, Buka **Zenmap**
     ![image](https://github.com/user-attachments/assets/04d26b44-2687-4564-bd7f-0a8c9bc607b6)
 
-  - Buka **Terminal** pada Kali Linux anda
-  - Buka **Terminal** pada Kali Linux anda
+  - Masukan link target yang ingin anda Scan, Kemudian klik Scan
+    ![image](https://github.com/user-attachments/assets/197b29b1-ad73-4134-89c0-ff662b3582a3)
 
+  - Maka hasil scan akan tampil seperti ini
+    ![image](https://github.com/user-attachments/assets/3f3ce564-6f12-4540-a7f4-9c6f20c36c3e)
 
 ## 3. Angry IP Scan
 

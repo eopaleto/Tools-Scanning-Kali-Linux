@@ -37,6 +37,10 @@
   - Maka hasil scan akan tampil seperti ini
     ![image](https://github.com/user-attachments/assets/3f3ce564-6f12-4540-a7f4-9c6f20c36c3e)
 
+  - Dapat dilihat dari hasil scan menggunakan zenmap sama seperti pada nmap hanya saja proses scan lebih cepat dan tampilan GUI, kita dapat melihat informasi berikut :
+    1. Ip dari Website tersebut
+    2. Port-Port yang digunakan pada Website tersebut
+
 ## 3. Angry IP Scan
 
   - Pada kali linux, Angry IP Scan secara default belum terinstall, maka kita perlu menginstall terlebihdahulu
